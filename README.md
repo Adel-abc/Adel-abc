@@ -1,6 +1,6 @@
 # Hi, I'm Adel 👋
 
-Backend Developer.
+Backend Developer specializing in C# and ASP.NET Core.
 
 ## Tech Stack
 
@@ -12,9 +12,10 @@ Backend Developer.
 
 ## What I Do
 
-* Build REST APIs with ASP.NET Core
-* Design and manage databases
-* Backend development and system design
+* Build scalable REST APIs with ASP.NET Core
+* Design and manage relational databases
+* Develop backend applications and services
+* Write clean and maintainable code
 
 ## Currently Learning
 
@@ -23,4 +24,5 @@ Backend Developer.
 
 ## Contact
 
-* Mail: [3adel.public@gmail.com](mailto:3adel.public@gmail.com)
+* Email: [3adel.public@gmail.com](mailto:3adel.public@gmail.com)
+
