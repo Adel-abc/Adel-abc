@@ -25,4 +25,4 @@ Backend Developer specializing in C# and ASP.NET Core.
 ## Contact
 
 * Email: [3adel.public@gmail.com](mailto:3adel.public@gmail.com)
-
+* LinkedIn: https://www.linkedin.com/in/adel-mostafa-242828331/
