@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Adel 👋
 
-<!--
-**Adel-abc/Adel-abc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C#
+* .NET / ASP.NET Core
+* SQL Server
+* Entity Framework Core
+* REST APIs
+
+## What I Do
+
+* Build REST APIs with ASP.NET Core
+* Design and manage databases
+* Backend development and system design
+
+## Currently Learning
+
+* Docker
+* System Design
+
+## Contact
+
+* Mail: [3adel.public@gmail.com](mailto:3adel.public@gmail.com)
